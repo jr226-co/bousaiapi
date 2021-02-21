@@ -1,0 +1,4 @@
+{"type": "intensity_report", "time": "1613200074960", "max_index": 0, "intensity_list": [{"intensity": "0", "index": 0, "region_list": ["\u9577\u91ce", "\u5c71\u68a8"]}]}{"type": "intensity_report", "time": "1613200074960", "max_index": 0, "intensity_list": [{"intensity": "0", "index": 0, "region_list": ["\u9577\u91ce", "\u5c71\u68a8"]}]}
+{"type": "intensity_report", "time": "1613200074960", "max_index": 0, "intensity_list": [{"intensity": "0", "index": 0, "region_list": ["\u9577\u91ce", "\u5c71\u68a8"]}]}
+{"type":"pga_alert","time":"1613215431964","max_pga":-0.531,"new":true,"estimated_intensity":0,"region_list":["\u8328\u57ce"]}
+{"type":"intensity_report","time":"1613215431964","max_index":-1,"intensity_list":[{"intensity":"0\u672a\u6e80","index":-1,"region_list":["\u8328\u57ce"]}]}
